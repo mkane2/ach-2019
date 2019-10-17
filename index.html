@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <title>Kane ACH 2019</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+  <style type="text/css">code{white-space: pre;}
+  .reveal section img {border: 0px solid #eee;}
+  </style>
+  <!-- Printing and PDF exports -->
+  <script>
+    var link = document.createElement( 'link' );
+    link.rel = 'stylesheet';
+    link.type = 'text/css';
+    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
+    document.getElementsByTagName( 'head' )[0].appendChild( link );
+  </script>
+  <style>
+  .tooltip, .tooltip-2 {
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 0.5;
+    width: auto;
+    height: auto;
+    padding: 5px;
+    font: 1em sans-serif;
+    background: white;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    pointer-events: none;
+    z-index: 6;
+  }
+</style>
+  <!--[if lt IE 9]>
+  <script src="reveal.js/lib/js/html5shiv.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+
+<section id="section" class="slide level4">
+<figure>
+<img src="title.png" alt="title" top="-100"/><figcaption>title</figcaption>
+</figure>
+</section>
+<section id="shirts-powdered-red" class="slide level4">
+<figure>
+<img src="http://maevekane.net/wmq-uc/images/barclay.png" alt="acctbk" /><figcaption>acctbk</figcaption>
+</figure>
+</section>
+<section id="map" class="slide level4">
+<figure>
+<img src="http://maevekane.net/wmq-uc/map.png" alt="" /><figcaption>acctbk chart</figcaption>
+</figure>
+</section>
+<section id="all-one-people" class="slide level4">
+<h5>1: Munsee-Ulster NY trade 1712-1732</h5>
+<svg id="ulster" height="900" width="1000"></svg>
+</section>
+<section id="all-one-people" class="slide level4">
+<h5>2: Iroquois-Albany NY trade 1686-1724</h5>
+<svg id="wendell" height="900" width="1000"></svg>
+</section>
+<section id="all-one-people" class="slide level4">
+<h5>3: Fort Hunter NY Anglican Church 1734-1746</h5>
+<svg id="ft_hunter" height="900" width="1000"></svg>
+</section>
+<section id="all-one-people-2" class="slide level4">
+<h5>4: NY War of 1812 1815-1855</h5>
+<svg id="war_of_1812" height="900" width="1000"></svg>
+</section>
+<section id="network-research-goals" class="slide level4">
+<ul>
+<li>network density and women's visibility as a measure of European observation?</li>
+<li>network form and document genre vs impact of colonialism?</li>
+<li>agnotology of indigenous women's erasure</li>
+</ul>
+</section>
+<section id="network-research-goals" class="slide level4">
+<h4>thank you!</h4>
+<h4><a href="https://twitter.com/maevekane">@MaeveKane</a></h4>
+</section>
+<section id="all-one-people-1" class="slide level4">
+<strong>5: Albany NY Dutch Reformed Church 1683-1724</strong>
+<img src="dutch.png" />
+<text class="small">n=8462</text>
+</section>
+    </div>
+  </div>
+
+  <script src="reveal.js/lib/js/head.min.js"></script>
+  <script src="reveal.js/js/reveal.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+
+        // Optional reveal.js plugins
+        dependencies: [
+          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
+              { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        ]
+      });
+    </script>
+
+//Fort Hunter viz
+<script src="fthunter.js"></script>
+
+//Ulster Viz
+<script src="ulster.js"></script>
+
+//Wendell Viz
+<script src="wendell.js"></script>
+
+//War of 1812 Viz
+<script src="WarOf1812.js"></script>
+
+    </body>
+</html>

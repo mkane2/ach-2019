@@ -1,0 +1,124 @@
+{
+  "nodes": [
+    {
+      "name" : "Daegan",
+      "gender" : "M",
+      "degree" : 5
+    },
+    {
+      "name" : "Jim",
+      "gender" : "M",
+      "degree" : 5
+    },
+    {
+      "name" : "Amy",
+      "gender": "F",
+      "degree" : 5
+    },
+    {
+      "name" : "Maeve",
+      "gender" : "F",
+      "degree" : 5
+    },
+    {
+      "name" : "Mari",
+      "gender": "F",
+      "degree" : 5
+    },
+    {
+      "name" : "Nicole",
+      "gender": "F",
+      "degree" : 5
+    },
+    {
+      "name" : "Jackie",
+      "gender": "F",
+      "degree" : 5
+    }
+  ],
+  "links": [
+    {
+      "source" : "Jackie",
+      "target" : "Jim"
+    },
+    {
+      "source" : "Jackie",
+      "target" : "Amy"
+    },
+    {
+      "source" : "Jackie",
+      "target" : "Daegan"
+    },
+    {
+      "source" : "Jackie",
+      "target" : "Maeve"
+    },
+    {
+      "source" : "Jackie",
+      "target" : "Mari"
+    },
+    {
+      "source" : "Jackie",
+      "target" : "Nicole"
+    },
+    {
+      "source" : "Jim",
+      "target" : "Amy"
+    },{
+      "source" : "Jim",
+      "target" : "Daegan"
+    },
+    {
+      "source" : "Jim",
+      "target" : "Maeve"
+    },
+    {
+      "source" : "Jim",
+      "target" : "Mari"
+    },
+    {
+      "source" : "Jim",
+      "target" : "Nicole"
+    },
+    {
+      "source" : "Amy",
+      "target" : "Daegan"
+    },
+    {
+      "source" : "Amy",
+      "target" : "Maeve"
+    },
+    {
+      "source" : "Amy",
+      "target" : "Mari"
+    },
+    {
+      "source" : "Amy",
+      "target" : "Nicole"
+    },
+    {
+      "source" : "Daegan",
+      "target" : "Mari"
+    },
+    {
+      "source" : "Daegan",
+      "target" : "Maeve"
+    },
+    {
+      "source" : "Daegan",
+      "target" : "Nicole"
+    },
+    {
+      "source" : "Maeve",
+      "target" : "Mari"
+    },
+    {
+      "source" : "Maeve",
+      "target" : "Nicole"
+    },
+    {
+      "source" : "Mari",
+      "target" : "Nicole"
+    }
+  ]
+}

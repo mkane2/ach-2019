@@ -1,0 +1,7144 @@
+{
+  "nodes":
+  [
+  {
+    "name": "William Jacket",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Abbey Jacket",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Pierce",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Abel Pierce",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "John Whiteboy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Abigail Bennet",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Blue Eyes",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Abram John",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Jimmy Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Acksah John",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "John Antoine",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Adam Skenandoah",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Adam Skenandoah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "William Tallchief",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Alexander Tallchief",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "William Johnson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 992.789683,
+    "modularity_class": 9
+  },
+  {
+    "name": "Amos Johnson",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Aowanah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 6
+  },
+  {
+    "name": "Amy Silversmith",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 6
+  },
+  {
+    "name": "Colonel Silversmith",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Cole Jr",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 822,
+    "modularity_class": 6
+  },
+  {
+    "name": "Gajasdoga",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Andrew Snow",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Antinaha",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Holland William",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Antinaha",
+    "commander": "Genl Porter",
+    "defense_at": "Niagara",
+    "location": "Onondaga Castle",
+    "degree": 4,
+    "betweenesscentrality": 184.053245,
+    "modularity_class": 7
+  },
+  {
+    "name": "Jim Hudson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 8
+  },
+  {
+    "name": "Benjamin Hudson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "John Anthony",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Billy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 4,
+    "betweenesscentrality": 698.752433,
+    "modularity_class": 1
+  },
+  {
+    "name": "Betsey Blinkey",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "George Gordon",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Betsey Gordon",
+    "gender": "Female",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "George Washington",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 4,
+    "betweenesscentrality": 733.203752,
+    "modularity_class": 0
+  },
+  {
+    "name": "Betsey Kennedy",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Big Chief",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Big Fire",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Black Squirrel",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Isaac Davis",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Caleb Davis",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Captain Cole Jr",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Cole Jr",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Valley",
+    "degree": 11,
+    "betweenesscentrality": 4465.234143,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Peter",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Daniel Cole",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Hill",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Old Joseph",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Silver Kick",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Cole Jr",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Young Farmer",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Cole Jr",
+    "commander": "Genl Porter",
+    "defense_at": "Black Rock",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Abraham Hill",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Commissary",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 25,
+    "betweenesscentrality": 9107.655109,
+    "modularity_class": 7
+  },
+  {
+    "name": "Abram La Fort",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 7
+  },
+  {
+    "name": "Awl Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Frost",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Black Rock",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Billy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 5,
+    "betweenesscentrality": 993.278278,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Jones",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Jones",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Cornelius Doxtater",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "",
+    "defense_at": "Sandy Creek",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Curlock",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Black Rock",
+    "location": "Onondaga Valley",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "David Johnson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 7
+  },
+  {
+    "name": "Ganowihsagih",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 56.083333,
+    "modularity_class": 1
+  },
+  {
+    "name": "Jenks Mistaken",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Adams",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 106.783333,
+    "modularity_class": 1
+  },
+  {
+    "name": "John Antianger",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Capron",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Jake",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Johnson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Hollow",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Thomas",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 5,
+    "betweenesscentrality": 3060.270173,
+    "modularity_class": 1
+  },
+  {
+    "name": "Nixter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Valley",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Stopper Cooper",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Thomas Shenandoah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "",
+    "defense_at": "Sandy Creek",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "White",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Captain Commissary",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Fishhook",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Captain John Kennedy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Captain Joseph",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Harry Webster",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Chapen",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Green Coat",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 8
+  },
+  {
+    "name": "Charles Halftown",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Corn Planter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Tonawanda",
+    "degree": 5,
+    "betweenesscentrality": 2718.46996,
+    "modularity_class": 3
+  },
+  {
+    "name": "Charles O'Bail",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Fanning Mill",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Coat",
+    "commander": "",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 7
+  },
+  {
+    "name": "Coat",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Tall Chief",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Coat",
+    "commander": "",
+    "defense_at": "Shipama",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Cornelius",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Cold",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Cold",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 5,
+    "betweenesscentrality": 1754.895238,
+    "modularity_class": 1
+  },
+  {
+    "name": "Onondaga Jacob",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Cold",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 188.811905,
+    "modularity_class": 9
+  },
+  {
+    "name": "Samuel George",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Cold",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Susan Jacob",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Daniel Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "English Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Dolly Skanandoah",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Daniel Scanado",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Jake Skanandoah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Daniel Two Guns",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Henry Two Guns",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "David Hill",
+    "gender": "Male",
+    "signature": "",
+    "captain": "David Hill",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Dodge Fatty",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Dodge Fatty Jr",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Amos Red Eye",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Eleanor Red Eye",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Elijah Cayuga",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Young Cayuga",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Gaassyodyeth",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Eli Jimeson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Hohoigoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Peter Skanandoah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "Elizabeth Canada",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Elizabeth George",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Thomas Beaver",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Elizabeth Jimeson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Bucktooth",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Eliza Bucktooth",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Sigwaihdeh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Doxtater",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Eliza Jacobs",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Harries",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 166.438095,
+    "modularity_class": 8
+  },
+  {
+    "name": "Eliza King",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 40.625,
+    "modularity_class": 8
+  },
+  {
+    "name": "William Platt",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 284.186905,
+    "modularity_class": 8
+  },
+  {
+    "name": "Brooks Red Eye",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Eliza Red Eye",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Jack Snow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Eliza Thompson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Farmer's Brother",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 18,
+    "betweenesscentrality": 62738.889157,
+    "modularity_class": 1
+  },
+  {
+    "name": "Gov Blacksnake",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 37,
+    "betweenesscentrality": 20758.483429,
+    "modularity_class": 2
+  },
+  {
+    "name": "Jake Antoine",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 822,
+    "modularity_class": 1
+  },
+  {
+    "name": "Jesse John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Tobiah John",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "Kennedy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 16,
+    "betweenesscentrality": 10015.092825,
+    "modularity_class": 0
+  },
+  {
+    "name": "Little Beard",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 26,
+    "betweenesscentrality": 14784.336769,
+    "modularity_class": 3
+  },
+  {
+    "name": "Little Billy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 7,
+    "betweenesscentrality": 3022.511789,
+    "modularity_class": 1
+  },
+  {
+    "name": "Peter Elm",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 11,
+    "betweenesscentrality": 6089.116667,
+    "modularity_class": 1
+  },
+  {
+    "name": "Pollard",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 53,
+    "betweenesscentrality": 30615.613569,
+    "modularity_class": 4
+  },
+  {
+    "name": "Robinson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 37,
+    "betweenesscentrality": 21419.475737,
+    "modularity_class": 5
+  },
+  {
+    "name": "Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 17,
+    "betweenesscentrality": 9798.62619,
+    "modularity_class": 8
+  },
+  {
+    "name": "Tobiah John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Joe Hemlock",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Gaahgwesaah",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Young Thompson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Gahdanihdoh",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "John Skye 1st",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 3
+  },
+  {
+    "name": "Ganonnayah",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 3
+  },
+  {
+    "name": "Major Henry O'Bail",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 3
+  },
+  {
+    "name": "Shonijih",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Whiskey Rez",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 8
+  },
+  {
+    "name": "Gawanino",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Adjutant",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Gayahdyonih",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Gayandohaah",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 4,
+    "betweenesscentrality": 148.704762,
+    "modularity_class": 3
+  },
+  {
+    "name": "George Carpenter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Louis",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Thompson Blinkey",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 174.066667,
+    "modularity_class": 4
+  },
+  {
+    "name": "Genl Porter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 37,
+    "betweenesscentrality": 5484.740687,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Farmer",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Harry Webster",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Captain Justin",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Harry Webster",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Harry Webster",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 42,
+    "betweenesscentrality": 5458.257518,
+    "modularity_class": 7
+  },
+  {
+    "name": "James Willack",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Harry Webster",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Musk Rat",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 19.05,
+    "modularity_class": 7
+  },
+  {
+    "name": "Tall John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 9,
+    "betweenesscentrality": 1416.693222,
+    "modularity_class": 7
+  },
+  {
+    "name": "Thomas John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Tall John",
+    "commander": "Genl Porter",
+    "defense_at": "Buffalo",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 19.05,
+    "modularity_class": 7
+  },
+  {
+    "name": "Thomas Soloman",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 4,
+    "betweenesscentrality": 245.996755,
+    "modularity_class": 7
+  },
+  {
+    "name": "Watersnake Soloman",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga Castle",
+    "degree": 3,
+    "betweenesscentrality": 19.05,
+    "modularity_class": 7
+  },
+  {
+    "name": "George Fox",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "George Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Jacob Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 5,
+    "betweenesscentrality": 423.058333,
+    "modularity_class": 5
+  },
+  {
+    "name": "Thomas Runner",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "George Mohawk",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "George Moses",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "George Thomas",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Jim Washington",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Billy Dowdy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 410,
+    "modularity_class": 2
+  },
+  {
+    "name": "Chaw Tobacco",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "David Snow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 104.452578,
+    "modularity_class": 2
+  },
+  {
+    "name": "Eli Halftown",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Fight Thompson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Gaayaaut",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Gahnehsawahkoh",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 410,
+    "modularity_class": 2
+  },
+  {
+    "name": "Ganahnoout",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 32.717749,
+    "modularity_class": 2
+  },
+  {
+    "name": "Ganohgwagohha",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 104.452578,
+    "modularity_class": 2
+  },
+  {
+    "name": "Gawoganyo",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Gee Snow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Hadyenas",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 241.445238,
+    "modularity_class": 2
+  },
+  {
+    "name": "Hajaasdajih",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 284.186905,
+    "modularity_class": 8
+  },
+  {
+    "name": "Has-ga-nah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Jacob Blacksnake",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Job Pierce",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Bow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Killbuck",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 3,
+    "betweenesscentrality": 168.676761,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Johnson Silverheels",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Julia John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Long John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 32.717749,
+    "modularity_class": 2
+  },
+  {
+    "name": "Ninogahwih",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Nohagayoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 141.289822,
+    "modularity_class": 2
+  },
+  {
+    "name": "Sandy Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 261.292857,
+    "modularity_class": 5
+  },
+  {
+    "name": "Squire Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 2
+  },
+  {
+    "name": "Stephen Taylor",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Gov Blacksnake",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 261.292857,
+    "modularity_class": 2
+  },
+  {
+    "name": "Gannahwagh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Tall John",
+    "commander": "Great Peter",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 54.357143,
+    "modularity_class": 7
+  },
+  {
+    "name": "Great Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 3,
+    "betweenesscentrality": 0.333333,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Hacoket",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Tall John",
+    "commander": "Great Peter",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 54.357143,
+    "modularity_class": 7
+  },
+  {
+    "name": "Hannah Black Squirrel",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Henry Cornelius",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Hannah George",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Henry George",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 1
+  },
+  {
+    "name": "Jake Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 8
+  },
+  {
+    "name": "Hannah Hudson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Twenty Canoes",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "",
+    "defense_at": "Buffalo",
+    "location": "cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 737.463492,
+    "modularity_class": 0
+  },
+  {
+    "name": "Hannah Johnny John",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "John Little Beard",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 3,
+    "betweenesscentrality": 823,
+    "modularity_class": 3
+  },
+  {
+    "name": "Harriet Jimeson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Harry Phillips",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.333333,
+    "modularity_class": 7
+  },
+  {
+    "name": "Dana John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "John Peter",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Nicholas",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Onondaga",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Adam Jordon",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "Henry Jordon",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Henry Phillips",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Phillips",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Hiram Bowe",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Isaac John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 3,
+    "betweenesscentrality": 111.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Jackson Curry",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Jackson Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Dodaoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Jack Yellow Blanket",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Jacob Bennet",
+    "gender": "Male",
+    "signature": "",
+    "captain": "John Little Bear",
+    "commander": "",
+    "defense_at": "Tonawanda",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Dahgihwashe",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 65.016667,
+    "modularity_class": 5
+  },
+  {
+    "name": "Gayadeenawah",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 65.016667,
+    "modularity_class": 5
+  },
+  {
+    "name": "Old Jake Antoine",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Jake Antoine",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "James Billy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Agwashah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "James Mitten",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Old Sunfish",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "James Sunfish",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Old Fish",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "James Williams",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "George Killbuck",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Jesse Killbuck",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Honagoawi",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 200.407143,
+    "modularity_class": 2
+  },
+  {
+    "name": "Jesse Plummer",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 51.7,
+    "modularity_class": 2
+  },
+  {
+    "name": "Captain Sundown",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Joel Sundown",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Charley Gee",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Johannah Halfwhite",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "David King",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Onondaga",
+    "degree": 3,
+    "betweenesscentrality": 213.433333,
+    "modularity_class": 1
+  },
+  {
+    "name": "John Bennet",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Bigfire",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Canescrogg",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Captain Key",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Billy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 183.883333,
+    "modularity_class": 1
+  },
+  {
+    "name": "John Farmer",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 1,
+    "modularity_class": 1
+  },
+  {
+    "name": "Devils Ramrod",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 227.116667,
+    "modularity_class": 1
+  },
+  {
+    "name": "Ganyenahoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Griffin",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Hutchinson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Danogah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "John Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Gendow",
+    "location": "Allegany",
+    "degree": 3,
+    "betweenesscentrality": 206,
+    "modularity_class": 8
+  },
+  {
+    "name": "Henry Whiteman",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Jones",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Big Tall Chief",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "John Kennedy",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 4,
+    "betweenesscentrality": 582.130736,
+    "modularity_class": 0
+  },
+  {
+    "name": "James King",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 737.463492,
+    "modularity_class": 0
+  },
+  {
+    "name": "Daniel Killbuck",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 54.333333,
+    "modularity_class": 2
+  },
+  {
+    "name": "Hagohsagwagoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Tonawanda",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Luke",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Seneca",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Bill Griffin",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 8
+  },
+  {
+    "name": "John Shanks",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 8
+  },
+  {
+    "name": "Johnson Jimeson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Thompson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "John Titus",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Old Hutchinson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Jonathan Seneca",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Jacob Twenty Canoes",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Joseph Dudley",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Joseph John",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Julia Jimeson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 40.625,
+    "modularity_class": 8
+  },
+  {
+    "name": "Wanadas",
+    "gender": "Female",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 166.438095,
+    "modularity_class": 8
+  },
+  {
+    "name": "James Jonas",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Julia Jonas",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Cayuga Tommy",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 0
+  },
+  {
+    "name": "Haut-ha-oh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Straight Back",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Tall Neezer",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Tom Fort",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 0
+  },
+  {
+    "name": "Tommy Congo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Kennedy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 0
+  },
+  {
+    "name": "Black Chief's Brother",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "Blue Sky",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "Captain Thompson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "Gahnogaih",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "John Blacksmith",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "Louis Poodry",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Saadehgoh",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 3
+  },
+  {
+    "name": "Samuel Parker",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Beard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Old Fashion",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Little Billy",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 136.138095,
+    "modularity_class": 4
+  },
+  {
+    "name": "Joseph Kensockety",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Little Joe",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Louis Sundown",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Green Blanket",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Lucia Green",
+    "gender": "Female",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Gawisyogah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Lucinda Red Eye",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Sam Harris",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Lucy Harris",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Bob Stevens",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Lucy King",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Jacob Taylor",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Lucy Taylor",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Old Thompson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Mahala Dennis",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Joseph Logan",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Margaget Logan",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Margaret Seneca",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Martin Spring",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Mary Farmer",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Shogahjowaah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Mary Halftown",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "George Jacobs",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 235.021429,
+    "modularity_class": 9
+  },
+  {
+    "name": "Mary Jacobs",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 13.833333,
+    "modularity_class": 9
+  },
+  {
+    "name": "Peter Johnson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Mary Johnson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Mary Jones",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Mary Little Chief",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "John Snow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 1232,
+    "modularity_class": 9
+  },
+  {
+    "name": "Mary Snow",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Little Joe Kenjocktty",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Morris Halftown",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Moses Snow",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Destroytown",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 136.930952,
+    "modularity_class": 4
+  },
+  {
+    "name": "Mrs. Destroytown",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 3,
+    "betweenesscentrality": 2.5,
+    "modularity_class": 4
+  },
+  {
+    "name": "Rueben James",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 136.930952,
+    "modularity_class": 4
+  },
+  {
+    "name": "Mrs Cole",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Mrs Commissary",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Old Crow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Nancy Billy",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Nancy Jones",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Nancy White",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Peter Harnyus",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Polly Cooper",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "William Cornelius",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Peter Elm",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Oneida",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 1
+  },
+  {
+    "name": "Peter Jimeson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 3,
+    "betweenesscentrality": 412.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Moses Pierce",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Peter Johnson the first",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Peter Johnson Jr",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Peter Johnson the second",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Peter Kennedy",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "John General",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 822,
+    "modularity_class": 4
+  },
+  {
+    "name": "Peter Snow",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Jonas",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Little Johnson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Peter Wilson",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Phillip Kenjockety",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Capt Crow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Dan Twenty Canoes",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Daniel King",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "George Wheelbarrow",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 3,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Isaac Jemison",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Geneseo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 4
+  },
+  {
+    "name": "John Yellow Blanket",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Niagara",
+    "location": "Tonawanda",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Major Jack Berry",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 4
+  },
+  {
+    "name": "Old Jacobs",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Seneca White",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "",
+    "defense_at": "",
+    "location": "Cattaragus",
+    "degree": 4,
+    "betweenesscentrality": 2.5,
+    "modularity_class": 4
+  },
+  {
+    "name": "Shoiwihyah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "White Chief",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "White Seneca",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 263.1,
+    "modularity_class": 1
+  },
+  {
+    "name": "Young King",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Pollard",
+    "commander": "Farmer's Brother",
+    "defense_at": "Buffalo",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 4
+  },
+  {
+    "name": "Polly Antoine",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Polly Bennet",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 4
+  },
+  {
+    "name": "Joaisaah",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 200.407143,
+    "modularity_class": 5
+  },
+  {
+    "name": "Polly Jimeson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 51.7,
+    "modularity_class": 5
+  },
+  {
+    "name": "Polly Lewis",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 2
+  },
+  {
+    "name": "Polly Seneca",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 51.533333,
+    "modularity_class": 1
+  },
+  {
+    "name": "Docter Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "Polly Shongo",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "George Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "Polly Titus",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "James Robinson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Polly Turkey",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Polly Twenty Canoes",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Rachael Island",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "George Big Deer",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Rachael Silverheels",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Rebecca Blacksnake",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "James Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Rebecca Shongo",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Captain Bone",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Docter Jimeson",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 126.360714,
+    "modularity_class": 5
+  },
+  {
+    "name": "Eli Shongo",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 126.360714,
+    "modularity_class": 5
+  },
+  {
+    "name": "Gee Buck",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 136.666667,
+    "modularity_class": 5
+  },
+  {
+    "name": "George Silverheels",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 5
+  },
+  {
+    "name": "Goliah John",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 136.666667,
+    "modularity_class": 5
+  },
+  {
+    "name": "John Decker",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 136.666667,
+    "modularity_class": 5
+  },
+  {
+    "name": "Samuel Jones",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Sky Pierce",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Tom Jones",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Two Canoes",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Robinson",
+    "commander": "Farmer's Brother",
+    "defense_at": "Allegany",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 179.340974,
+    "modularity_class": 2
+  },
+  {
+    "name": "Ruth Jimeson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 0
+  },
+  {
+    "name": "Sally Jacobs",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Sally Snow",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 5,
+    "betweenesscentrality": 192.115079,
+    "modularity_class": 2
+  },
+  {
+    "name": "See Cod",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 95.91637,
+    "modularity_class": 9
+  },
+  {
+    "name": "Sally Thompson",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Samuel Blue Sky",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Sarah Pierce",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Big Kettle",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "Johnny Hatch",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Allegany",
+    "degree": 2,
+    "betweenesscentrality": 205,
+    "modularity_class": 8
+  },
+  {
+    "name": "Young Chicken",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Shongo",
+    "commander": "Farmer's Brother",
+    "defense_at": "Canandea",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 205.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "Simeon John",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 3,
+    "betweenesscentrality": 1.5,
+    "modularity_class": 5
+  },
+  {
+    "name": "Smith Wheelbarrow",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Stephen Shongo",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 2
+  },
+  {
+    "name": "Stephen Silverheels",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 5
+  },
+  {
+    "name": "Strong",
+    "gender": "Male",
+    "signature": "",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 13,
+    "betweenesscentrality": 8485.865577,
+    "modularity_class": 9
+  },
+  {
+    "name": "William Plummer",
+    "gender": "Male",
+    "signature": "",
+    "captain": "Strong",
+    "commander": "Farmer's Brother",
+    "defense_at": "Cattaragus",
+    "location": "Cattaragus",
+    "degree": 2,
+    "betweenesscentrality": 412,
+    "modularity_class": 9
+  },
+  {
+    "name": "Susan Blacksmith",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 3
+  },
+  {
+    "name": "Susan Jimeson",
+    "gender": "Female",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Susan Jones",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Susan Yellow Blanket",
+    "gender": "Female",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Thomas Cornelius",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 1
+  },
+  {
+    "name": "Thomas Crow",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "Thomas La Fort",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 7
+  },
+  {
+    "name": "Thomas Snow",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 9
+  },
+  {
+    "name": "Tommy White",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 0
+  },
+  {
+    "name": "William Jacobs",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "William Jimeson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 8
+  },
+  {
+    "name": "William King",
+    "gender": "Male",
+    "signature": "Y",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 1,
+    "betweenesscentrality": 0,
+    "modularity_class": 4
+  },
+  {
+    "name": "William Shongo",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 3,
+    "betweenesscentrality": 86.666667,
+    "modularity_class": 5
+  },
+  {
+    "name": "Young Jackson",
+    "gender": "Male",
+    "signature": "N",
+    "captain": "",
+    "commander": "",
+    "defense_at": "",
+    "location": "",
+    "degree": 2,
+    "betweenesscentrality": 0.5,
+    "modularity_class": 8
+  }
+],
+"links":
+[
+  {
+    "source": "William Jacket",
+    "target": "Pollard"
+  },
+  {
+    "source": "William Jacket",
+    "target": "Abbey Jacket"
+  },
+  {
+    "source": "John Pierce",
+    "target": "Robinson"
+  },
+  {
+    "source": "John Pierce",
+    "target": "Abel Pierce"
+  },
+  {
+    "source": "John Whiteboy",
+    "target": "Strong"
+  },
+  {
+    "source": "John Whiteboy",
+    "target": "Abigail Bennet"
+  },
+  {
+    "source": "Blue Eyes",
+    "target": "Robinson"
+  },
+  {
+    "source": "Blue Eyes",
+    "target": "Abram John"
+  },
+  {
+    "source": "Jimmy Jimeson",
+    "target": "Robinson"
+  },
+  {
+    "source": "Jimmy Jimeson",
+    "target": "Acksah John"
+  },
+  {
+    "source": "John Antoine",
+    "target": "Adam Skenandoah"
+  },
+  {
+    "source": "Adam Skenandoah",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "William Tallchief",
+    "target": "Kennedy"
+  },
+  {
+    "source": "William Tallchief",
+    "target": "Alexander Tallchief"
+  },
+  {
+    "source": "William Johnson",
+    "target": "Strong"
+  },
+  {
+    "source": "William Johnson",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "William Johnson",
+    "target": "Amos Johnson"
+  },
+  {
+    "source": "Aowanah",
+    "target": "Amy Silversmith"
+  },
+  {
+    "source": "Colonel Silversmith",
+    "target": "Amy Silversmith"
+  },
+  {
+    "source": "Colonel Silversmith",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Gajasdoga",
+    "target": "Pollard"
+  },
+  {
+    "source": "Gajasdoga",
+    "target": "Andrew Snow"
+  },
+  {
+    "source": "Antinaha",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Antinaha",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Holland William",
+    "target": "Antinaha"
+  },
+  {
+    "source": "Holland William",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Holland William",
+    "target": "Harry Phillips"
+  },
+  {
+    "source": "Holland William",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Jim Hudson",
+    "target": "Shongo"
+  },
+  {
+    "source": "Jim Hudson",
+    "target": "Benjamin Hudson"
+  },
+  {
+    "source": "John Anthony",
+    "target": "Little Billy"
+  },
+  {
+    "source": "John Anthony",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Anthony",
+    "target": "Chapen"
+  },
+  {
+    "source": "John Anthony",
+    "target": "Betsey Blinkey"
+  },
+  {
+    "source": "George Gordon",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "George Gordon",
+    "target": "Betsey Gordon"
+  },
+  {
+    "source": "George Washington",
+    "target": "Kennedy"
+  },
+  {
+    "source": "George Washington",
+    "target": "John Kennedy"
+  },
+  {
+    "source": "George Washington",
+    "target": "Betsey Kennedy"
+  },
+  {
+    "source": "Jim Washington",
+    "target": "George Washington"
+  },
+  {
+    "source": "Big Chief",
+    "target": "Strong"
+  },
+  {
+    "source": "Big Fire",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Black Squirrel",
+    "target": "Pollard"
+  },
+  {
+    "source": "Isaac Davis",
+    "target": "Strong"
+  },
+  {
+    "source": "Isaac Davis",
+    "target": "Caleb Davis"
+  },
+  {
+    "source": "Captain Cole Jr",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Captain Cole Jr",
+    "target": "Mrs Cole"
+  },
+  {
+    "source": "Captain Cole Jr",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Cole Jr",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Young Farmer",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Silver Kick",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Old Joseph",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "John Hill",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Daniel Cole",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Captain Peter",
+    "target": "Captain Cole Jr"
+  },
+  {
+    "source": "Captain Peter",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Peter",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Daniel Cole",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Daniel Cole",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Hill",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Hill",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Old Joseph",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Old Joseph",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Silver Kick",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Silver Kick",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Young Farmer",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Young Farmer",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Abraham Hill",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Abraham Hill",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Abraham Hill",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Captain Commissary",
+    "target": "Mrs Commissary"
+  },
+  {
+    "source": "Captain Commissary",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Commissary",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Commissary",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "White",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Thomas Shenandoah",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Stopper Cooper",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Nixter",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Thomas",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Johnson",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Jake",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Capron",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Antianger",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "John Adams",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Jenks Mistaken",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Ganowihsagih",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "David Johnson",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Curlock",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Cornelius Doxtater",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Captain Jones",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Captain John",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Captain Frost",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Awl Peter",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Abram La Fort",
+    "target": "Captain Commissary"
+  },
+  {
+    "source": "Abram La Fort",
+    "target": "Thomas La Fort"
+  },
+  {
+    "source": "Awl Peter",
+    "target": "Elizabeth George"
+  },
+  {
+    "source": "Captain Frost",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Frost",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain John",
+    "target": "Little Billy"
+  },
+  {
+    "source": "Captain John",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain John",
+    "target": "Hannah Black Squirrel"
+  },
+  {
+    "source": "Captain John",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Jones",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Jones",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Cornelius Doxtater",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Curlock",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Curlock",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "David Johnson",
+    "target": "Rachael Island"
+  },
+  {
+    "source": "Ganowihsagih",
+    "target": "Samuel George"
+  },
+  {
+    "source": "Jenks Mistaken",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Jenks Mistaken",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "David King",
+    "target": "John Adams"
+  },
+  {
+    "source": "John Antianger",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Antianger",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Capron",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Capron",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Jake",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Jake",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Johnson",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Johnson",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "John Thomas",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Thomas",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "John Thomas",
+    "target": "George Thomas"
+  },
+  {
+    "source": "John Thomas",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Nixter",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Nixter",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Stopper Cooper",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Stopper Cooper",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Thomas Shenandoah",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "White",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "White",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Fishhook",
+    "target": "Pollard"
+  },
+  {
+    "source": "Captain John Kennedy",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Captain Joseph",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Joseph",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Chapen",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Green Coat",
+    "target": "Shongo"
+  },
+  {
+    "source": "Green Coat",
+    "target": "Charles Halftown"
+  },
+  {
+    "source": "Corn Planter",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Corn Planter",
+    "target": "John Bigfire"
+  },
+  {
+    "source": "Corn Planter",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Corn Planter",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Corn Planter",
+    "target": "Charles O'Bail"
+  },
+  {
+    "source": "Fanning Mill",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Fanning Mill",
+    "target": "Coat"
+  },
+  {
+    "source": "John Tall Chief",
+    "target": "Coat"
+  },
+  {
+    "source": "John Tall Chief",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Cornelius",
+    "target": "Cold"
+  },
+  {
+    "source": "Cold",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Susan Jacob",
+    "target": "Cold"
+  },
+  {
+    "source": "Samuel George",
+    "target": "Cold"
+  },
+  {
+    "source": "Onondaga Jacob",
+    "target": "Cold"
+  },
+  {
+    "source": "Onondaga Jacob",
+    "target": "Mary Jacobs"
+  },
+  {
+    "source": "Daniel Peter",
+    "target": "Little Beard"
+  },
+  {
+    "source": "English Peter",
+    "target": "Daniel Peter"
+  },
+  {
+    "source": "English Peter",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Dolly Skanandoah",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Dolly Skanandoah",
+    "target": "Daniel Scanado"
+  },
+  {
+    "source": "Jake Skanandoah",
+    "target": "Daniel Scanado"
+  },
+  {
+    "source": "Jake Skanandoah",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Daniel Two Guns",
+    "target": "Pollard"
+  },
+  {
+    "source": "Henry Two Guns",
+    "target": "Daniel Two Guns"
+  },
+  {
+    "source": "Henry Two Guns",
+    "target": "Pollard"
+  },
+  {
+    "source": "David Hill",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Dodge Fatty",
+    "target": "Robinson"
+  },
+  {
+    "source": "Dodge Fatty",
+    "target": "Dodge Fatty Jr"
+  },
+  {
+    "source": "Amos Red Eye",
+    "target": "Robinson"
+  },
+  {
+    "source": "Amos Red Eye",
+    "target": "Eleanor Red Eye"
+  },
+  {
+    "source": "Elijah Cayuga",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Young Cayuga",
+    "target": "Elijah Cayuga"
+  },
+  {
+    "source": "Young Cayuga",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Gaassyodyeth",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Gaassyodyeth",
+    "target": "Eli Jimeson"
+  },
+  {
+    "source": "Hohoigoh",
+    "target": "Eli Jimeson"
+  },
+  {
+    "source": "Hohoigoh",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Peter Skanandoah",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Peter Skanandoah",
+    "target": "Elizabeth Canada"
+  },
+  {
+    "source": "Thomas Beaver",
+    "target": "Pollard"
+  },
+  {
+    "source": "Thomas Beaver",
+    "target": "Elizabeth Jimeson"
+  },
+  {
+    "source": "Bucktooth",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Bucktooth",
+    "target": "Eliza Bucktooth"
+  },
+  {
+    "source": "Sigwaihdeh",
+    "target": "Eliza Bucktooth"
+  },
+  {
+    "source": "Sigwaihdeh",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "John Doxtater",
+    "target": "Pollard"
+  },
+  {
+    "source": "John Doxtater",
+    "target": "Eliza Jacobs"
+  },
+  {
+    "source": "John Harries",
+    "target": "Shongo"
+  },
+  {
+    "source": "John Harries",
+    "target": "Eliza King"
+  },
+  {
+    "source": "William Platt",
+    "target": "Eliza King"
+  },
+  {
+    "source": "William Platt",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Brooks Red Eye",
+    "target": "Robinson"
+  },
+  {
+    "source": "Brooks Red Eye",
+    "target": "Eliza Red Eye"
+  },
+  {
+    "source": "Jack Snow",
+    "target": "Robinson"
+  },
+  {
+    "source": "Jack Snow",
+    "target": "Eliza Thompson"
+  },
+  {
+    "source": "Strong",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Tobiah John",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Shongo",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Robinson",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Pollard",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Peter Elm",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Little Billy",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Little Beard",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Kennedy",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Jesse John",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Jake Antoine",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Gov Blacksnake",
+    "target": "Farmer's Brother"
+  },
+  {
+    "source": "Stephen Taylor",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Squire Jimeson",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Sandy Jimeson",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Nohagayoh",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Ninogahwih",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Long John",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Julia John",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Johnson Silverheels",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "John Shongo",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "John Killbuck",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "John Bow",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Job Pierce",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Jacob Blacksnake",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Has-ga-nah",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Hajaasdajih",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Hadyenas",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Gee Snow",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Gawoganyo",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Ganohgwagohha",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Ganahnoout",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Gahnehsawahkoh",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Gaayaaut",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Fight Thompson",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Eli Halftown",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "David Snow",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Chaw Tobacco",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Billy Dowdy",
+    "target": "Gov Blacksnake"
+  },
+  {
+    "source": "Old Jake Antoine",
+    "target": "Jake Antoine"
+  },
+  {
+    "source": "Jesse John",
+    "target": "Tobiah John"
+  },
+  {
+    "source": "Jesse John",
+    "target": "Margaret Seneca"
+  },
+  {
+    "source": "Tommy Congo",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Tom Fort",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Tall Neezer",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Tall John",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Straight Back",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Old Fish",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Jim Washington",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Haut-ha-oh",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Cayuga Tommy",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Captain Sundown",
+    "target": "Kennedy"
+  },
+  {
+    "source": "Little Beard",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Samuel Parker",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Saadehgoh",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Major Henry O'Bail",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Louis Poodry",
+    "target": "Little Beard"
+  },
+  {
+    "source": "John Skye 1st",
+    "target": "Little Beard"
+  },
+  {
+    "source": "John Louis",
+    "target": "Little Beard"
+  },
+  {
+    "source": "John Little Beard",
+    "target": "Little Beard"
+  },
+  {
+    "source": "John Blacksmith",
+    "target": "Little Beard"
+  },
+  {
+    "source": "James Billy",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Henry Whiteman",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Hagohsagwagoh",
+    "target": "Little Beard"
+  },
+  {
+    "source": "George Moses",
+    "target": "Little Beard"
+  },
+  {
+    "source": "George Carpenter",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Gayandohaah",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Ganyenahoh",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Gahnogaih",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Captain Thompson",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Blue Sky",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Black Chief's Brother",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Agwashah",
+    "target": "Little Beard"
+  },
+  {
+    "source": "Little Billy",
+    "target": "Pollard"
+  },
+  {
+    "source": "Little Billy",
+    "target": "Nancy White"
+  },
+  {
+    "source": "Old Fashion",
+    "target": "Little Billy"
+  },
+  {
+    "source": "Captain Key",
+    "target": "Little Billy"
+  },
+  {
+    "source": "William Cornelius",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Polly Cooper",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Peter Harnyus",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Henry George",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Henry Cornelius",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "David King",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Adam Jordon",
+    "target": "Peter Elm"
+  },
+  {
+    "source": "Young King",
+    "target": "Pollard"
+  },
+  {
+    "source": "White Seneca",
+    "target": "Pollard"
+  },
+  {
+    "source": "White Chief",
+    "target": "Pollard"
+  },
+  {
+    "source": "Twenty Canoes",
+    "target": "Pollard"
+  },
+  {
+    "source": "Thompson Blinkey",
+    "target": "Pollard"
+  },
+  {
+    "source": "Shoiwihyah",
+    "target": "Pollard"
+  },
+  {
+    "source": "Seneca White",
+    "target": "Pollard"
+  },
+  {
+    "source": "Sam Harris",
+    "target": "Pollard"
+  },
+  {
+    "source": "Rueben James",
+    "target": "Pollard"
+  },
+  {
+    "source": "Phillip Kenjockety",
+    "target": "Pollard"
+  },
+  {
+    "source": "Peter Johnson the second",
+    "target": "Pollard"
+  },
+  {
+    "source": "Peter Johnson the first",
+    "target": "Pollard"
+  },
+  {
+    "source": "Peter Johnson",
+    "target": "Pollard"
+  },
+  {
+    "source": "Old Jacobs",
+    "target": "Pollard"
+  },
+  {
+    "source": "Major Jack Berry",
+    "target": "Pollard"
+  },
+  {
+    "source": "Little Johnson",
+    "target": "Pollard"
+  },
+  {
+    "source": "Little Joe",
+    "target": "Pollard"
+  },
+  {
+    "source": "Joseph Logan",
+    "target": "Pollard"
+  },
+  {
+    "source": "Joseph Kensockety",
+    "target": "Pollard"
+  },
+  {
+    "source": "John Yellow Blanket",
+    "target": "Pollard"
+  },
+  {
+    "source": "John Seneca",
+    "target": "Pollard"
+  },
+  {
+    "source": "John Phillips",
+    "target": "Pollard"
+  },
+  {
+    "source": "John General",
+    "target": "Pollard"
+  },
+  {
+    "source": "John Bennet",
+    "target": "Pollard"
+  },
+  {
+    "source": "Joe Hemlock",
+    "target": "Pollard"
+  },
+  {
+    "source": "James King",
+    "target": "Pollard"
+  },
+  {
+    "source": "James Jonas",
+    "target": "Pollard"
+  },
+  {
+    "source": "Jacob Twenty Canoes",
+    "target": "Pollard"
+  },
+  {
+    "source": "Jacob Jimeson",
+    "target": "Pollard"
+  },
+  {
+    "source": "Isaac Jemison",
+    "target": "Pollard"
+  },
+  {
+    "source": "Henry Phillips",
+    "target": "Pollard"
+  },
+  {
+    "source": "Green Blanket",
+    "target": "Pollard"
+  },
+  {
+    "source": "George Wheelbarrow",
+    "target": "Pollard"
+  },
+  {
+    "source": "George Jimeson",
+    "target": "Pollard"
+  },
+  {
+    "source": "Dodaoh",
+    "target": "Pollard"
+  },
+  {
+    "source": "Devils Ramrod",
+    "target": "Pollard"
+  },
+  {
+    "source": "Destroytown",
+    "target": "Pollard"
+  },
+  {
+    "source": "Daniel King",
+    "target": "Pollard"
+  },
+  {
+    "source": "Dan Twenty Canoes",
+    "target": "Pollard"
+  },
+  {
+    "source": "Capt Crow",
+    "target": "Pollard"
+  },
+  {
+    "source": "Bob Stevens",
+    "target": "Pollard"
+  },
+  {
+    "source": "Adjutant",
+    "target": "Pollard"
+  },
+  {
+    "source": "Young Thompson",
+    "target": "Robinson"
+  },
+  {
+    "source": "Two Canoes",
+    "target": "Robinson"
+  },
+  {
+    "source": "Tom Jones",
+    "target": "Robinson"
+  },
+  {
+    "source": "Sky Pierce",
+    "target": "Robinson"
+  },
+  {
+    "source": "Shogahjowaah",
+    "target": "Robinson"
+  },
+  {
+    "source": "Samuel Jones",
+    "target": "Robinson"
+  },
+  {
+    "source": "Old Sunfish",
+    "target": "Robinson"
+  },
+  {
+    "source": "Old Hutchinson",
+    "target": "Robinson"
+  },
+  {
+    "source": "Old Crow",
+    "target": "Robinson"
+  },
+  {
+    "source": "John Titus",
+    "target": "Robinson"
+  },
+  {
+    "source": "John Decker",
+    "target": "Robinson"
+  },
+  {
+    "source": "Joaisaah",
+    "target": "Robinson"
+  },
+  {
+    "source": "James Shongo",
+    "target": "Robinson"
+  },
+  {
+    "source": "James Robinson",
+    "target": "Robinson"
+  },
+  {
+    "source": "Jacob Taylor",
+    "target": "Robinson"
+  },
+  {
+    "source": "Isaac John",
+    "target": "Robinson"
+  },
+  {
+    "source": "Honagoawi",
+    "target": "Robinson"
+  },
+  {
+    "source": "Goliah John",
+    "target": "Robinson"
+  },
+  {
+    "source": "George Silverheels",
+    "target": "Robinson"
+  },
+  {
+    "source": "George Killbuck",
+    "target": "Robinson"
+  },
+  {
+    "source": "Gee Buck",
+    "target": "Robinson"
+  },
+  {
+    "source": "Gayadeenawah",
+    "target": "Robinson"
+  },
+  {
+    "source": "Gawisyogah",
+    "target": "Robinson"
+  },
+  {
+    "source": "Eli Shongo",
+    "target": "Robinson"
+  },
+  {
+    "source": "Docter Jimeson",
+    "target": "Robinson"
+  },
+  {
+    "source": "Daniel Killbuck",
+    "target": "Robinson"
+  },
+  {
+    "source": "Dahgihwashe",
+    "target": "Robinson"
+  },
+  {
+    "source": "Charley Gee",
+    "target": "Robinson"
+  },
+  {
+    "source": "Captain Bone",
+    "target": "Robinson"
+  },
+  {
+    "source": "Young Chicken",
+    "target": "Shongo"
+  },
+  {
+    "source": "Wanadas",
+    "target": "Shongo"
+  },
+  {
+    "source": "Shonijih",
+    "target": "Shongo"
+  },
+  {
+    "source": "Johnny Hatch",
+    "target": "Shongo"
+  },
+  {
+    "source": "John Jimeson",
+    "target": "Shongo"
+  },
+  {
+    "source": "John Canescrogg",
+    "target": "Shongo"
+  },
+  {
+    "source": "Jake Shongo",
+    "target": "Shongo"
+  },
+  {
+    "source": "Jackson Shongo",
+    "target": "Shongo"
+  },
+  {
+    "source": "George Shongo",
+    "target": "Shongo"
+  },
+  {
+    "source": "Docter Shongo",
+    "target": "Shongo"
+  },
+  {
+    "source": "Danogah",
+    "target": "Shongo"
+  },
+  {
+    "source": "Bill Griffin",
+    "target": "Shongo"
+  },
+  {
+    "source": "Big Kettle",
+    "target": "Shongo"
+  },
+  {
+    "source": "Joe Hemlock",
+    "target": "Gaahgwesaah"
+  },
+  {
+    "source": "Young Thompson",
+    "target": "Gahdanihdoh"
+  },
+  {
+    "source": "John Skye 1st",
+    "target": "Ganonnayah"
+  },
+  {
+    "source": "Major Henry O'Bail",
+    "target": "Ganonnayah"
+  },
+  {
+    "source": "Shonijih",
+    "target": "Gawanino"
+  },
+  {
+    "source": "Adjutant",
+    "target": "Gayahdyonih"
+  },
+  {
+    "source": "Thompson Blinkey",
+    "target": "Gayandohaah"
+  },
+  {
+    "source": "John Louis",
+    "target": "Gayandohaah"
+  },
+  {
+    "source": "George Carpenter",
+    "target": "Gayandohaah"
+  },
+  {
+    "source": "Watersnake Soloman",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Thomas Soloman",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Thomas John",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Tall John",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Musk Rat",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "James Willack",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Harry Webster",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Justin",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Farmer",
+    "target": "Genl Porter"
+  },
+  {
+    "source": "Captain Farmer",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Captain Justin",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Watersnake Soloman",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Thomas Soloman",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Thomas John",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Nicholas",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Musk Rat",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Peter",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "John Hacoket",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "James Willack",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Gannahwagh",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Dana John",
+    "target": "Harry Webster"
+  },
+  {
+    "source": "Musk Rat",
+    "target": "Tall John"
+  },
+  {
+    "source": "Tall John",
+    "target": "Great Peter"
+  },
+  {
+    "source": "Watersnake Soloman",
+    "target": "Tall John"
+  },
+  {
+    "source": "Thomas Soloman",
+    "target": "Tall John"
+  },
+  {
+    "source": "Thomas John",
+    "target": "Tall John"
+  },
+  {
+    "source": "John Hacoket",
+    "target": "Tall John"
+  },
+  {
+    "source": "Gannahwagh",
+    "target": "Tall John"
+  },
+  {
+    "source": "Thomas Soloman",
+    "target": "Harry Phillips"
+  },
+  {
+    "source": "Pollard",
+    "target": "George Fox"
+  },
+  {
+    "source": "Jacob Jimeson",
+    "target": "George Jimeson"
+  },
+  {
+    "source": "Nohagayoh",
+    "target": "Jacob Jimeson"
+  },
+  {
+    "source": "Gayadeenawah",
+    "target": "Jacob Jimeson"
+  },
+  {
+    "source": "Dahgihwashe",
+    "target": "Jacob Jimeson"
+  },
+  {
+    "source": "Thomas Runner",
+    "target": "Strong"
+  },
+  {
+    "source": "Thomas Runner",
+    "target": "George Mohawk"
+  },
+  {
+    "source": "Billy Dowdy",
+    "target": "Peter Jimeson"
+  },
+  {
+    "source": "Chaw Tobacco",
+    "target": "Julia John"
+  },
+  {
+    "source": "David Snow",
+    "target": "Sally Snow"
+  },
+  {
+    "source": "Eli Halftown",
+    "target": "Morris Halftown"
+  },
+  {
+    "source": "Fight Thompson",
+    "target": "John Thompson"
+  },
+  {
+    "source": "Gaayaaut",
+    "target": "Polly Titus"
+  },
+  {
+    "source": "Gahnehsawahkoh",
+    "target": "Peter Jimeson"
+  },
+  {
+    "source": "Ganahnoout",
+    "target": "Isaac John"
+  },
+  {
+    "source": "Ganohgwagohha",
+    "target": "Sally Snow"
+  },
+  {
+    "source": "Gawoganyo",
+    "target": "Polly Lewis"
+  },
+  {
+    "source": "Gee Snow",
+    "target": "Moses Snow"
+  },
+  {
+    "source": "Hadyenas",
+    "target": "William Shongo"
+  },
+  {
+    "source": "Hajaasdajih",
+    "target": "Julia Jimeson"
+  },
+  {
+    "source": "Has-ga-nah",
+    "target": "Jackson Curry"
+  },
+  {
+    "source": "Jacob Blacksnake",
+    "target": "Rebecca Blacksnake"
+  },
+  {
+    "source": "Job Pierce",
+    "target": "Sarah Pierce"
+  },
+  {
+    "source": "John Bow",
+    "target": "Hiram Bowe"
+  },
+  {
+    "source": "John Killbuck",
+    "target": "Sally Snow"
+  },
+  {
+    "source": "Daniel Killbuck",
+    "target": "John Killbuck"
+  },
+  {
+    "source": "John Shongo",
+    "target": "Stephen Shongo"
+  },
+  {
+    "source": "Johnson Silverheels",
+    "target": "Polly Lewis"
+  },
+  {
+    "source": "Long John",
+    "target": "Isaac John"
+  },
+  {
+    "source": "Ninogahwih",
+    "target": "Joseph John"
+  },
+  {
+    "source": "Sandy Jimeson",
+    "target": "Polly Jimeson"
+  },
+  {
+    "source": "Squire Jimeson",
+    "target": "Johnson Jimeson"
+  },
+  {
+    "source": "Stephen Taylor",
+    "target": "Jesse Plummer"
+  },
+  {
+    "source": "Gannahwagh",
+    "target": "Great Peter"
+  },
+  {
+    "source": "John Hacoket",
+    "target": "Great Peter"
+  },
+  {
+    "source": "Henry Cornelius",
+    "target": "Hannah George"
+  },
+  {
+    "source": "Henry George",
+    "target": "Hannah George"
+  },
+  {
+    "source": "Jake Shongo",
+    "target": "Hannah Hudson"
+  },
+  {
+    "source": "Twenty Canoes",
+    "target": "John Kennedy"
+  },
+  {
+    "source": "Twenty Canoes",
+    "target": "Hannah Johnny John"
+  },
+  {
+    "source": "John Little Beard",
+    "target": "Harriet Jimeson"
+  },
+  {
+    "source": "Jacob Bennet",
+    "target": "John Little Beard"
+  },
+  {
+    "source": "Adam Jordon",
+    "target": "Henry Jordon"
+  },
+  {
+    "source": "John Phillips",
+    "target": "Henry Phillips"
+  },
+  {
+    "source": "John Phillips",
+    "target": "Nancy Jones"
+  },
+  {
+    "source": "Dodaoh",
+    "target": "Jack Yellow Blanket"
+  },
+  {
+    "source": "Old Jake Antoine",
+    "target": "Polly Antoine"
+  },
+  {
+    "source": "Agwashah",
+    "target": "James Mitten"
+  },
+  {
+    "source": "Old Sunfish",
+    "target": "James Sunfish"
+  },
+  {
+    "source": "Old Fish",
+    "target": "James Williams"
+  },
+  {
+    "source": "George Killbuck",
+    "target": "Jesse Killbuck"
+  },
+  {
+    "source": "Honagoawi",
+    "target": "Jesse Plummer"
+  },
+  {
+    "source": "Captain Sundown",
+    "target": "Joel Sundown"
+  },
+  {
+    "source": "Charley Gee",
+    "target": "Johannah Halfwhite"
+  },
+  {
+    "source": "David King",
+    "target": "Polly Seneca"
+  },
+  {
+    "source": "Captain Key",
+    "target": "John Farmer"
+  },
+  {
+    "source": "Devils Ramrod",
+    "target": "John Farmer"
+  },
+  {
+    "source": "Ganyenahoh",
+    "target": "John Griffin"
+  },
+  {
+    "source": "John Hutchinson",
+    "target": "Strong"
+  },
+  {
+    "source": "Danogah",
+    "target": "John Jimeson"
+  },
+  {
+    "source": "John Jimeson",
+    "target": "William Jimeson"
+  },
+  {
+    "source": "Henry Whiteman",
+    "target": "John Jones"
+  },
+  {
+    "source": "Big Tall Chief",
+    "target": "John Kennedy"
+  },
+  {
+    "source": "James King",
+    "target": "John Kennedy"
+  },
+  {
+    "source": "James King",
+    "target": "Jonathan Seneca"
+  },
+  {
+    "source": "Hagohsagwagoh",
+    "target": "John Luke"
+  },
+  {
+    "source": "Bill Griffin",
+    "target": "John Shanks"
+  },
+  {
+    "source": "Old Hutchinson",
+    "target": "John Titus"
+  },
+  {
+    "source": "Jacob Twenty Canoes",
+    "target": "Joseph Dudley"
+  },
+  {
+    "source": "Wanadas",
+    "target": "Julia Jimeson"
+  },
+  {
+    "source": "James Jonas",
+    "target": "Julia Jonas"
+  },
+  {
+    "source": "Cayuga Tommy",
+    "target": "Tommy White"
+  },
+  {
+    "source": "Haut-ha-oh",
+    "target": "Ruth Jimeson"
+  },
+  {
+    "source": "Straight Back",
+    "target": "Louis Sundown"
+  },
+  {
+    "source": "Tall Neezer",
+    "target": "Mary Little Chief"
+  },
+  {
+    "source": "Tom Fort",
+    "target": "Peter Kennedy"
+  },
+  {
+    "source": "Tommy Congo",
+    "target": "Tommy White"
+  },
+  {
+    "source": "Black Chief's Brother",
+    "target": "Mary Jones"
+  },
+  {
+    "source": "Blue Sky",
+    "target": "Samuel Blue Sky"
+  },
+  {
+    "source": "Captain Thompson",
+    "target": "Sally Thompson"
+  },
+  {
+    "source": "Gahnogaih",
+    "target": "Martin Spring"
+  },
+  {
+    "source": "John Blacksmith",
+    "target": "Susan Blacksmith"
+  },
+  {
+    "source": "Saadehgoh",
+    "target": "Mary Farmer"
+  },
+  {
+    "source": "Old Fashion",
+    "target": "Mrs. Destroytown"
+  },
+  {
+    "source": "Joseph Kensockety",
+    "target": "Little Joe"
+  },
+  {
+    "source": "Green Blanket",
+    "target": "Lucia Green"
+  },
+  {
+    "source": "Gawisyogah",
+    "target": "Lucinda Red Eye"
+  },
+  {
+    "source": "Sam Harris",
+    "target": "Lucy Harris"
+  },
+  {
+    "source": "Bob Stevens",
+    "target": "Lucy King"
+  },
+  {
+    "source": "Jacob Taylor",
+    "target": "Lucy Taylor"
+  },
+  {
+    "source": "Old Thompson",
+    "target": "Strong"
+  },
+  {
+    "source": "Old Thompson",
+    "target": "Mahala Dennis"
+  },
+  {
+    "source": "Joseph Logan",
+    "target": "Margaget Logan"
+  },
+  {
+    "source": "Shogahjowaah",
+    "target": "Mary Halftown"
+  },
+  {
+    "source": "George Jacobs",
+    "target": "Strong"
+  },
+  {
+    "source": "George Jacobs",
+    "target": "Mary Jacobs"
+  },
+  {
+    "source": "Peter Johnson",
+    "target": "Mary Johnson"
+  },
+  {
+    "source": "John Snow",
+    "target": "Thomas Snow"
+  },
+  {
+    "source": "John Snow",
+    "target": "Strong"
+  },
+  {
+    "source": "John Snow",
+    "target": "Mary Snow"
+  },
+  {
+    "source": "Little Joe Kenjocktty",
+    "target": "Mary Snow"
+  },
+  {
+    "source": "Destroytown",
+    "target": "Mrs. Destroytown"
+  },
+  {
+    "source": "Rueben James",
+    "target": "Mrs. Destroytown"
+  },
+  {
+    "source": "Old Crow",
+    "target": "Nancy Billy"
+  },
+  {
+    "source": "William Cornelius",
+    "target": "Thomas Cornelius"
+  },
+  {
+    "source": "Moses Pierce",
+    "target": "Peter Jimeson"
+  },
+  {
+    "source": "Peter Johnson the first",
+    "target": "Peter Johnson Jr"
+  },
+  {
+    "source": "John General",
+    "target": "Peter Snow"
+  },
+  {
+    "source": "John Jonas",
+    "target": "Peter Snow"
+  },
+  {
+    "source": "Little Johnson",
+    "target": "Peter Wilson"
+  },
+  {
+    "source": "Capt Crow",
+    "target": "Thomas Crow"
+  },
+  {
+    "source": "Dan Twenty Canoes",
+    "target": "Polly Twenty Canoes"
+  },
+  {
+    "source": "Daniel King",
+    "target": "Seneca White"
+  },
+  {
+    "source": "George Wheelbarrow",
+    "target": "Smith Wheelbarrow"
+  },
+  {
+    "source": "George Wheelbarrow",
+    "target": "Seneca White"
+  },
+  {
+    "source": "Isaac Jemison",
+    "target": "Polly Bennet"
+  },
+  {
+    "source": "John Yellow Blanket",
+    "target": "Susan Yellow Blanket"
+  },
+  {
+    "source": "Major Jack Berry",
+    "target": "Polly Bennet"
+  },
+  {
+    "source": "Old Jacobs",
+    "target": "William Jacobs"
+  },
+  {
+    "source": "White Chief",
+    "target": "Seneca White"
+  },
+  {
+    "source": "Shoiwihyah",
+    "target": "Susan Jimeson"
+  },
+  {
+    "source": "White Seneca",
+    "target": "Polly Seneca"
+  },
+  {
+    "source": "Young King",
+    "target": "William King"
+  },
+  {
+    "source": "Joaisaah",
+    "target": "Polly Jimeson"
+  },
+  {
+    "source": "Docter Shongo",
+    "target": "Polly Shongo"
+  },
+  {
+    "source": "George Shongo",
+    "target": "Polly Shongo"
+  },
+  {
+    "source": "James Robinson",
+    "target": "Polly Turkey"
+  },
+  {
+    "source": "George Big Deer",
+    "target": "Strong"
+  },
+  {
+    "source": "George Big Deer",
+    "target": "Rachael Silverheels"
+  },
+  {
+    "source": "James Shongo",
+    "target": "Rebecca Shongo"
+  },
+  {
+    "source": "Captain Bone",
+    "target": "Sally Jacobs"
+  },
+  {
+    "source": "Docter Jimeson",
+    "target": "William Shongo"
+  },
+  {
+    "source": "Eli Shongo",
+    "target": "William Shongo"
+  },
+  {
+    "source": "Gee Buck",
+    "target": "Simeon John"
+  },
+  {
+    "source": "George Silverheels",
+    "target": "Stephen Silverheels"
+  },
+  {
+    "source": "Goliah John",
+    "target": "Simeon John"
+  },
+  {
+    "source": "John Decker",
+    "target": "Simeon John"
+  },
+  {
+    "source": "Tom Jones",
+    "target": "Samuel Jones"
+  },
+  {
+    "source": "Two Canoes",
+    "target": "Sally Snow"
+  },
+  {
+    "source": "See Cod",
+    "target": "Sally Snow"
+  },
+  {
+    "source": "See Cod",
+    "target": "Strong"
+  },
+  {
+    "source": "Big Kettle",
+    "target": "Young Jackson"
+  },
+  {
+    "source": "Johnny Hatch",
+    "target": "William Jimeson"
+  },
+  {
+    "source": "Young Chicken",
+    "target": "Young Jackson"
+  },
+  {
+    "source": "William Plummer",
+    "target": "Strong"
+  },
+  {
+    "source": "William Plummer",
+    "target": "Susan Jones"
+  }
+]
+}
