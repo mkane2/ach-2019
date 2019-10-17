@@ -4,17 +4,17 @@
 
 Women are difficult to find archivally, indigenous women even more so. In many of the records I work with documenting Haudenosaunee Iroquois women, women’s presence was often noted even as they were erased as individuals. European observers recorded the presence of specific male Haudenosaunee speakers, and that they were accompanied by a mass of “women, children, and horses besides.” Today I’m going to briefly walk you through the morphology of three reconstructed indigenous social networks from the eighteenth century to think about what network analysis can say about how much and what Europeans saw and recorded of the indigenous communities they interacted with.
 
-[Slide 1, with the document]
+#### [Slide 1, with the document]
 
 Indigenous communities were not completely visible to European observers. Many of the women I study appear only once or twice in the archive, in documents like this baptismal register where they’re briefly named and then never mentioned again. My paper today is part of the very, very early stages of a project thinking about how—somewhat paradoxically—network analysis can make visible the active process of erasure in the settler colonial archive that has written indigenous and other women out of the historical record.
 
-[Slide 2: Map]
+#### [Slide 2: Map]
 
 Some very brief background: the networks I’m going to show you today represent connections in what’s now New York during the seventeenth and eighteenth centuries, primarily in Haudenosaunee communities. The Iroquois Confederacy includes the Mohawk, Oneida, Cayuga, Onondaga, Seneca, and Tuscarora nations, which continue to reside in New York, Canada, Wisconsin, and Oklahoma. Up through the American Revolution, they maintained control of their ancestral lands with very little incursion from white squatters, which had a significant role in shaping the recording of the networks I’m going to show you today. Haudenosaunee communities mainly practice matrilineal descent through clans, meaning that a man’s social standing and social connections were largely dependent on the clan and social connections of his mother and wife.
 
 All of this is, of course, only visible archivally through the lens of European observers, and thus our view of indigenous networks in this period is a record of what was visible to the person who documented them. That seems kind of ridiculously obvious, but it’s worth emphasizing. Europeans often recorded indigenous women without names of their own, and identified them as the wife, mother, or daughter of a named man, distorting our view of indigenous social connections. I argue, and the problem I’m trying to tackle in this new project, is that I think network analysis doesn’t tell us about women’s lives—it tells us about how women’s lives were visible to those around them. This is an especially important distinction to make in the study of indigenous and other marginalized or subaltern women, because the two are often conflated.
 
-[Slide 3, Network 1: Munsee-Ulster]
+#### [Slide 3, Network 1: Munsee-Ulster]
 
 This is a very sparse network. In this and in all the other networks I’m going to show you today, men are blue and women are red, and they’re sized by degree.
 
@@ -30,7 +30,7 @@ So this tells us three things:
 
 3. Some parts of indigenous networks were more observable to Europeans either because those communities were more integrated into colonial supervision or because those connections were unavoidable.
 
-[Slide 4, Network 2: Iroquois-Albany]
+#### [Slide 4, Network 2: Iroquois-Albany]
 
 This is another economic network, built with the same kinds of connections of people buying gifts, traveling together, and paying debts for each other. This and the previous network are roughly contemporaneous, and are geographically close, about eighty miles apart. Unlike the previous network, this one is only Haudenosaunee people.
 
@@ -44,17 +44,17 @@ So with two networks built from similar documents, in similar locations, in the 
 
 2. Colonial power dynamics influenced the visibility of women’s participation and influence.
 
-[Slide 5, Network 3: Fort Hunter]
+#### [Slide 5, Network 3: Fort Hunter]
 
 This next network tests those two ideas. This is a representation of connections between individuals who stood as godparents to children in the Anglican church at Fort Hunter, NY, about forty miles west of Albany. The Native people in this network are all Haudenosaunee, and unlike the previous networks we looked at, this network includes European settlers as well as indigenous people. This network represents a community of people who lived within about twenty miles of each other, who attended church regularly, and yet whose subcommunities within this network overlapped very little and have different morphology. I don’t think that the changes we see here are due to change over time: I have a couple of economic networks like the ones we saw previously which cover this and later time periods, and they look very similar to the first two networks we looked at. I’m showing this network instead of more economic networks because it illustrates the difference that document genre makes in network morphology, as well as the importance of colonialist surveillance in shaping network morphology.
 
 The settler portion of the network is much denser than the Haudenosaunee side of the network. The prominence of women in the two sides of the network is also striking: Haudenosaunee women are much less prominent here than either settler women or Haudenosaunee women in the previous network. That indicates that the Anglican minister who kept the baptismal network, either 1. preferentially recorded settler women’s ties or 2. simply saw less of the Haudenosaunee side of the congregation because women didn’t participate as much as men, although other archival sources suggest that Native women converted more often than men. European networks in this period tend to be very dense, like this little knot of Scottish Presbyterians here, with outliers of marginalized groups like these recently immigrated Palatine Germans up here. The fact that Barclay recorded such density in the settler portion of his congregation and not in the Haudenosaunee portion suggests that his view of the Haudenosaunee community at Fort Hunter was limited in some way.
 
-[Slide 6, Network 5: War of 1812 Pensions]
+#### [Slide 6, Network 5: War of 1812 Pensions]
 
 Before I finish, I really briefly want to show you a network from a later period to talk a bit more about document genre and archival colonialism. After the War of 1812, American and Native veterans filed pension claims from about 1815 to 1855, and named the executor of their estate—especially important because the US government didn’t get around to paying these pensions until almost the Civil War, and many of the veterans themselves were dead by that time. This network is an archival representation of the social structure the US government was trying very hard to enforce on all reservations: one central chief with his trusted captains, their warriors, and the warriors’ dependents. This is what most of the 19th century indigenous networks built from government sources look like, especially after 1848 when the federal government started forcing reservation governments to adopt models of government styled after the Constitution which barred women’s participation. This is what colonialism looks like. And yet, Haudenosaunee women here act as structural connectors—their connections as executors of estates tied together this network despite active colonial pressure against it.
 
-[Slide 7, questions???]
+#### [Slide 7, questions???]
 
 This project is in its very, very early stages, so I’m going to finish with some questions rather than answers. What I’m hoping to do is to build a website hosting several dozen networks like these in order to compare the effect of document genre, ethnic and national differences, change over time, and other factors on the visibility of women in early American networks. I’m tentatively planning to include an interface where others can upload their own networks to compare in order to extend the project and for use as a teaching tool. Some of the big questions I’m interested in with this project:
 
